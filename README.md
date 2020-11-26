@@ -65,6 +65,8 @@ docker-compose up
   - Auto update to 0.4.3.6-r0
 - 0.4.4.5-r0
   - Auto update to 0.4.4.5-r0
+- 0.4.4.6-r0
+  - Auto update to 0.4.4.6-r0
 <!--CHANGE-LOG-END-->
 
 ### License
