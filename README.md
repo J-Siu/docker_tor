@@ -51,7 +51,7 @@ docker-compose up
 
 ### Repository
 
-- [docker_compose](https://github.com/J-Siu/docker_tor)
+- [docker_tor](https://github.com/J-Siu/docker_tor)
 
 ### Contributors
 
