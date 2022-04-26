@@ -79,6 +79,8 @@ docker-compose up
   - Auto update to 0.4.5.8-r0
 - 0.4.6.5-r0
   - Auto update to 0.4.6.5-r0
+- 0.4.6.5-r0-p1
+  - Add docker push github workflow
 <!--CHANGE-LOG-END-->
 
 ### License
