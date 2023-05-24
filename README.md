@@ -104,6 +104,8 @@ docker-compose up
   - Auto update to 0.4.7.8-r0
 - 0.4.7.13-r1
   - Auto update to 0.4.7.13-r1
+- 0.4.7.13-r2
+  - Auto update to 0.4.7.13-r2
 <!--CHANGE-LOG-END-->
 
 ### License
