@@ -1,0 +1,40 @@
+- 0.4.3.5-r0
+  - tor version 0.4.3.5-r0
+- 0.4.3.6-r0
+  - Auto update to 0.4.3.6-r0
+- 0.4.4.5-r0
+  - Auto update to 0.4.4.5-r0
+- 0.4.4.6-r0
+  - Auto update to 0.4.4.6-r0
+- 0.4.4.6-r1
+  - Auto update to 0.4.4.6-r1
+- 0.4.4.7-r0
+  - Auto update to 0.4.4.7-r0
+- 0.4.5.6-r0
+  - Auto update to 0.4.5.6-r0
+- 0.4.5.7-r0
+  - Auto update to 0.4.5.7-r0
+- 0.4.5.8-r0
+  - Auto update to 0.4.5.8-r0
+- 0.4.6.5-r0
+  - Auto update to 0.4.6.5-r0
+- 0.4.6.5-r0-p1
+  - Add docker push github workflow
+- 0.4.6.10-r0
+  - Auto update to 0.4.6.10-r0
+- 0.4.7.7-r1
+  - Auto update to 0.4.7.7-r1
+- 0.4.7.8-r0
+  - Auto update to 0.4.7.8-r0
+- 0.4.7.13-r1
+  - Auto update to 0.4.7.13-r1
+- 0.4.7.13-r2
+  - Auto update to 0.4.7.13-r2
+- 0.4.8.12-r0
+  - Auto update to 0.4.8.12-r0
+- 0.4.8.17-r0
+  - Auto update to 0.4.8.17-r0
+- 0.4.8.18-r2
+  - Auto update to 0.4.8.18-r2
+- 0.4.8.19-r0
+  - Auto update to 0.4.8.19-r0
