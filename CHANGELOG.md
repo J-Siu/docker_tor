@@ -42,3 +42,5 @@
   - Auto update to 0.4.8.21-r0
 - 0.4.8.22-r0
   - Auto update to 0.4.8.22-r0
+- 0.4.9.5-r0
+  - Auto update to 0.4.9.5-r0
