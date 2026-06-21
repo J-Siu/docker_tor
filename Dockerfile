@@ -1,6 +1,6 @@
 # docker_mpd
 FROM alpine:edge
-ARG VERSION="0.4.9.8-r0"
+ARG VERSION="0.4.9.9-r0"
 LABEL version=${VERSION}
 LABEL maintainers="[John Sing Dao Siu](https://github.com/J-Siu)"
 LABEL name="tor"
@@ -9,7 +9,7 @@ LABEL description="Docker - tor with UID/GID handling"
 
 COPY docker-compose.yml env start.sh /
 RUN apk --no-cache add \
-	tor=${VERSION} \
+tor=0.4.9.9-r0 \
 	ca-certificates \
 	tzdata \
 	&& chmod +x /start.sh \

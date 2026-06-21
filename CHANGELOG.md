@@ -48,3 +48,5 @@
   - Auto update to 0.4.9.6-r0
 - 0.4.9.8-r0
   - Auto update to 0.4.9.8-r0
+- 0.4.9.9-r0
+  - Auto update to 0.4.9.9-r0
