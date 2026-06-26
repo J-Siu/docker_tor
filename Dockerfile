@@ -9,7 +9,7 @@ LABEL description="Docker - tor with UID/GID handling"
 
 COPY docker-compose.yml env start.sh /
 RUN apk --no-cache add \
-tor=0.4.9.10-r0 \
+	tor=0.4.9.10-r0 \
 	ca-certificates \
 	tzdata \
 	&& chmod +x /start.sh \
